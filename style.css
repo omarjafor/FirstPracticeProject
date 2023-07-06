@@ -37,22 +37,54 @@
     color: white;
 }
 .title{
+    font-family: sans-serif;
     font-size: 55px;
     font-weight: bold;
 }
 .description{
+    font-family: sans-serif;
     font-size: 18px;
     margin-top: 15px;
 }
 .btn{
     margin-top: 20px;
-    padding: 15px 20px;
+    padding: 20px 20px;
     background-color: red;
     border-radius: 5px;
     border: none;
     color: white;
     font-weight: bold;
 }
-.banner-img{
-    width: 300px;
+.photo{
+    width: 400px;
+}
+.abt-us{
+    background-color: #00f1ff;
+}
+.aboutus-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    margin-top: 22px;
+}
+.aboutus-h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.second-title{
+    font-family: sans-serif;
+    font-size: 35px;
+    text-shadow: 3px 3px 3px #00709a;
+}
+.abtus-p{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.new{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px black;
 }
